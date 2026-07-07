@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Virtual environments
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large dataset
+data/raw/
+
+# Generated outputs
+outputs/
+
+# Python build files
+*.egg-info/
